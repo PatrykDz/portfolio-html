@@ -1,0 +1,1110 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"trsp	transition-property: ${1:prop};"
+			],
+			[
+				"bs3-cdn",
+				"bs3-cdn:js	bs3-cdn-js"
+			],
+			[
+				"ng-",
+				"ng-template	AngularJS"
+			],
+			[
+				"bs3-nav",
+				"bs3-navbar:responsive	bs3-navbar-responsive"
+			],
+			[
+				"ng",
+				"ng-template	AngularJS"
+			],
+			[
+				"ang",
+				"angular: $compile"
+			],
+			[
+				"alert",
+				"alert  (function)"
+			],
+			[
+				"bs3-button",
+				"bs3-button:warning	bs3-button-warning"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"jq",
+				"jQuery.ajaxSetup	jQuery.ajaxSetup"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"jqery",
+				"jQuery.get	jQuery.get"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"bs3danger",
+				"bs3-alert:danger	bs3-alert-danger"
+			],
+			[
+				"ci",
+				"cimailcc	E-mail Carbon Copy"
+			],
+			[
+				"yaml",
+				"yaml_emit"
+			],
+			[
+				"bs3-input",
+				"bs3-input:url	bs3-input-url"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"package install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"bs3-html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"fjoi",
+				"Floobits - Join Workspace"
+			],
+			[
+				"fjoin",
+				"Floobits - Join Workspace"
+			],
+			[
+				".f",
+				"Floobits - Settings (~/.floorc.json)"
+			],
+			[
+				"fleave",
+				"Floobits - Leave Workspace"
+			],
+			[
+				".",
+				"Floobits - Settings (~/.floorc.json)"
+			],
+			[
+				"f settings",
+				"Floobits - Settings (~/.floorc.json)"
+			],
+			[
+				"f leave",
+				"Floobits - Leave Workspace"
+			],
+			[
+				"fl settings",
+				"Floobits - Settings (~/.floorc.json)"
+			],
+			[
+				"f join",
+				"Floobits - Join Workspace"
+			],
+			[
+				"flo settings",
+				"Floobits - Settings (~/.floorc.json)"
+			],
+			[
+				"floobits",
+				"Floobits - Follow Workspace Changes"
+			],
+			[
+				"flobits",
+				"Floobits - Settings (~/.floorc.json)"
+			],
+			[
+				"",
+				"AngularJS: Toggle - Disable Built-in Element Completions"
+			],
+			[
+				"remote",
+				"Remote: Connect to Session"
+			],
+			[
+				"bower install",
+				"Bower: Install"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"snippet:ang",
+				"Snippet: AngularJS"
+			],
+			[
+				"snippet:test",
+				"Snippet: test"
+			],
+			[
+				"snippet:list",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"snippet:cdata",
+				"Snippet: CDATA"
+			],
+			[
+				"dir",
+				"dired"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"angular",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"angula",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jq",
+				"Snippet: jQuery(document).ready"
+			],
+			[
+				"anon",
+				"Snippet: Anonymous Function"
+			],
+			[
+				"funct",
+				"Snippet: Anonymous Function"
+			],
+			[
+				"script",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"function",
+				"Snippet: Function"
+			],
+			[
+				"jquery",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"goto",
+				"Goto Bootstrap: CSS"
+			],
+			[
+				"del cur",
+				"ANF: Delete Current File"
+			],
+			[
+				"dele",
+				"ANF: Delete File"
+			],
+			[
+				"html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"fetch package",
+				"Fetch: Package"
+			],
+			[
+				"bs3 html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"dired",
+				"dired: Goto Anywhere"
+			],
+			[
+				"fig",
+				"Figlet: Add Text"
+			],
+			[
+				"figlet",
+				"Figlet: Select Font"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"livestyle",
+				"LiveStyle: Install WebKit extension"
+			],
+			[
+				"pretify",
+				"HTMLPrettify"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"commit history",
+				"Git: Commit history"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"intel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"codeigniter",
+				"Snippet: CodeIgniter Model"
+			],
+			[
+				"btn success",
+				"Snippet: bs3-button-success"
+			],
+			[
+				"button danger",
+				"Snippet: bs3-button-danger"
+			],
+			[
+				"button-danger",
+				"Snippet: bs3-button-danger"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-container"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html	",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"bs3-",
+				"Snippet: bs3-button"
+			],
+			[
+				"jquery	",
+				"Snippet: jQuery Show"
+			],
+			[
+				"bs3-nva",
+				"Snippet: bs3-navbar-brand"
+			],
+			[
+				"bs3-css",
+				"Snippet: bs3-cdn-css"
+			],
+			[
+				"bs3-navbar-responsive",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"ph",
+				"Snippet: bs3-panel-heading"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"control ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package control disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"package control: Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Close all",
+				"File: Close All"
+			],
+			[
+				"Package	Control: Install Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Add Repository",
+				"Package Control: Add Repository"
+			],
+			[
+				"repos",
+				"Preferences: Browse Packages"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"dired",
+			"packaga-control",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Admin/Desktop/mk.al13n_1_0/source_code",
+		"/D/Meteor/Ewidencja_Nauki_Jazdy/both/collections/items.js",
+		"/D/Meteor/Ewidencja_Nauki_Jazdy/client/helpers/startup.js",
+		"/D/Meteor/Ewidencja_Nauki_Jazdy/client/templates/layouts/_appHeader.html",
+		"/D/Meteor/Ewidencja_Nauki_Jazdy/client/templates/layouts/_publicHeader.html",
+		"/D/Meteor/Ewidencja_Nauki_Jazdy/client/templates/home/home.html",
+		"/D/Meteor/Ewidencja_Nauki_Jazdy/both/router/routes.js",
+		"/D/Meteor/Ewidencja_Nauki_Jazdy/client/templates/dashboard/dashboard.html",
+		"/D/Meteor/Ewidencja_Nauki_Jazdy/client/templates/layouts/sidebar.html",
+		"/D/Meteor/Ewidencja_Nauki_Jazdy/client/stylesheets/base/lib/admin-lte/sidebar.import.less",
+		"/D/Meteor/Ewidencja_Nauki_Jazdy/client/compatibility/bootstrap.js",
+		"/D/xampp/htdocs/portfolio/css/foundation.css",
+		"/D/xampp/htdocs/portfolio/index.html",
+		"/D/xampp/htdocs/portfolio/humans.txt",
+		"/D/xampp/htdocs/portfolio/robots.txt",
+		"/D/xampp/htdocs/nauka/style.css",
+		"/D/xampp/htdocs/nauka/index.html",
+		"/C/Ewidencja/skrypty/email-bat.vbs",
+		"/F/xampp/htdocs/scraping/index3.php",
+		"/D/xampp/htdocs/prestashop/themes/test/header.tpl",
+		"/D/xampp/htdocs/prestashop/themes/test/cms.tpl",
+		"/D/xampp/htdocs/prestashop/themes/test/category-tree-branch.tpl",
+		"/D/xampp/htdocs/prestashop/themes/test/sass/modules/blocktopmenu/css/superfish-modified.scss",
+		"/D/xampp/htdocs/porownaj-bmw/application/models/samochod_model.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/models/add_car_model.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/views/details_view.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/views/compare_view.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/models/compare_model.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/controllers/add_car.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/views/login_view.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/views/footer_view.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/views/main_view.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/views/add_car_view.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/views/register_view.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/config/autoload.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/config/config.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/controllers/login.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/views/compare_view_beta.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/controllers/main.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/controllers/verifylogin.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/models/user.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/models/model_model.php",
+		"/D/xampp/htdocs/porownaj-bmw/application/controllers/compare.php",
+		"/D/xampp/htdocs/porownaj-bmw/assets/docs/carousel.html",
+		"/D/xampp/htdocs/porownaj-bmw/system/helpers/directory_helper.php",
+		"/D/xampp/htdocs/porownaj-bmw/user_guide/userguide.css",
+		"/D/xampp/htdocs/porownaj-bmw/index.php",
+		"/D/xampp/htdocs/auto-king1/header.html",
+		"/D/xampp/htdocs/auto-king1/footer.html",
+		"/D/xampp/htdocs/auto-king1/styles/section1.scss",
+		"/D/xampp/htdocs/auto-king1/styles/header.scss",
+		"/D/xampp/htdocs/auto-king1/styles/style.scss",
+		"/D/xampp/htdocs/auto-king1/section1.html",
+		"/D/xampp/htdocs/auto-king1/index.php",
+		"/D/xampp/htdocs/auto-king1/styles/section.css",
+		"/F/Sublime Text/Sublime Text Build 3047/Data/Packages/Default/Preferences.sublime-settings",
+		"/F/Sublime Text/Sublime Text Build 3047/Data/Packages/User/Preferences.sublime-settings",
+		"/D/xampp/htdocs/auto-king1/styles/header.css.map",
+		"/D/xampp/htdocs/auto-king1/styles/style.css",
+		"/D/xampp/htdocs/auto-king1/styles/main.scss",
+		"/D/xampp/htdocs/rafal-kwasniak/style/style.scss",
+		"/D/xampp/htdocs/rafal-kwasniak/pomoz.html",
+		"/D/xampp/htdocs/rafal-kwasniak/style/style.css",
+		"/D/xampp/htdocs/responsive-design/styles/style.css",
+		"/D/xampp/htdocs/responsive-design/styles/style.scss",
+		"/D/xampp/htdocs/responsive-design/index.html",
+		"/D/xampp/htdocs/responsive-design/style.css.map",
+		"/D/xampp/htdocs/responsive-design/style.scss",
+		"/D/xampp/htdocs/responsive-design/style.css",
+		"/D/xampp/htdocs/auto-king/index.html",
+		"/D/xampp/htdocs/auto-king/xxindex.html",
+		"/F/M/fakebook/client/post/post.html",
+		"/F/M/fakebook/client/home/home.html",
+		"/F/M/fakebook/client/post/post.css",
+		"/D/xampp/htdocs/stackoverflow/index.html",
+		"/D/xampp/htdocs/m/index.html",
+		"/D/xampp/htdocs/m/tiles.html",
+		"/D/xampp/htdocs/test/index.html",
+		"/C/Visual Studio Projekty/Windows Phone 8/FapMaster/FapMaster/FapMaster.csproj",
+		"/C/Visual Studio Projekty/Windows Phone 8/FapMaster/FapMaster/FapMaster.csproj.user",
+		"/C/Visual Studio Projekty/Windows Phone 8/FapMaster — kopia — kopia/FapMaster/FapMaster.csproj.user",
+		"/D/xampp/htdocs/test/AI/macbook_pro_vector_by_black__werewolf-d48pz1u.png",
+		"/C/Visual Studio Projekty/Windows Phone 8/FapMaster — kopia (2)/FapMaster/FapMaster.csproj.user",
+		"/D/xampp/htdocs/test/AI/fla.ai",
+		"/D/xampp/htdocs/test/src/index.html",
+		"/D/xampp/htdocs/test/other.html",
+		"/D/xampp/htdocs/test/CONTRIBUTING.md",
+		"/F/Sublime Text/Sublime Text Build 3047/Data/Packages/User/Fetch.sublime-settings",
+		"/D/xampp/htdocs/test/x.html",
+		"/D/xampp/htdocs/test/dd.txt",
+		"/C/Users/Admin/.floorc.json",
+		"/C/Users/Admin/floobits/welcome.md",
+		"/C/Users/Admin/Desktop/test.html",
+		"/E/Visual Studio Projekty/Design/slideshare_links.txt",
+		"/F/xampp/htdocs/test/test.html",
+		"/C/Users/hp/Desktop/test.html",
+		"/F/Sublime Text/Sublime Text Build 3047/Data/Packages/User/AngularJS.sublime-snippet",
+		"/F/Sublime Text/Sublime Text Build 3047/Data/Packages/User/test.sublime-snippet",
+		"/D/xampp/htdocs/test/application/views/welcome_message.php",
+		"/F/xampp/htdocs/test/test.sublime-project",
+		"/F/Sublime Text/Sublime Text Build 3047/Data/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/F/Sublime Text/Sublime Text Build 3047/Data/Packages/User/angularJS.snippet",
+		"/F/xampp/htdocs/test/application/views/welcome_message.php",
+		"/C/Sublime Text/Sublime Text Build 3047/Data/Packages/User/Fetch.sublime-settings",
+		"/F/xampp/htdocs/test/system/core/Controller.php",
+		"/F/xampp/htdocs/test/application/controllers/welcome.php",
+		"/F/xampp/htdocs/test/assets/test.js",
+		"/F/xampp/htdocs/test/assets/jquery.js",
+		"/F/xampp/htdocs/test/index.php",
+		"/C/Sublime Text/Sublime Text Build 3047/Data/Packages/User/AdvancedNewFile.sublime-settings",
+		"/C/Sublime Text/Sublime Text Build 3047/Data/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/F/xampp/htdocs/test/application/views/test_view.php",
+		"/C/Sublime Text/Sublime Text Build 3.0.47 cracked and with key/Sublime Text Build 3.0.47 cracked and with key/Sublime Text Build 3047/Sublime Text Build 3047/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Sublime Text/Sublime Text Build 3.0.47 cracked and with key/Sublime Text Build 3.0.47 cracked and with key/Sublime Text Build 3047/Sublime Text Build 3047/Data/Packages/Default/Preferences.sublime-settings",
+		"/F/dired test/index.php",
+		"/F/xampp/htdocs/baza_ksiegowa/application/controllers/transakcje.php",
+		"/F//dired test/index.php",
+		"/F/xampp/htdocs/baza_ksiegowa/raporty/1-7-2014.xls",
+		"/F/xampp/htdocs/baza_ksiegowa/application/logs/index.html",
+		"/F/xampp/htdocs/baza_ksiegowa/application/views/kontrachenci_add_view.php",
+		"/C/Sublime Text/Sublime Text Build 3.0.47 cracked and with key/Sublime Text Build 3.0.47 cracked and with key/Sublime Text Build 3047/Sublime Text Build 3047/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/F/xampp/htdocs/baza_ksiegowa/application/views/transakcje_edit_view.php",
+		"/F/xampp/htdocs/baza_ksiegowa/assets/css/dashboard.css",
+		"/C/Sublime Text/Sublime Text Build 3.0.47 cracked and with key/Sublime Text Build 3.0.47 cracked and with key/Sublime Text Build 3047/Sublime Text Build 3047/Data/Packages/Git/Git.sublime-settings",
+		"/F/xampp/htdocs/baza_ksiegowa/application/views/transakcje_view.php",
+		"/F/xampp/htdocs/baza_ksiegowa/index.php",
+		"/D/xampp/htdocs/baza_ksiegowa/application/views/transakcje_view.php",
+		"/D/xampp/htdocs/baza_ksiegowa/application/controllers/statystyki.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sidebar",
+			"Ja",
+			"css3",
+			"Co robię",
+			"Helvet",
+			"h2",
+			"menu",
+			"map",
+			"Model",
+			"samochod_details",
+			"model",
+			"encryption",
+			"librarie",
+			"map",
+			">\n",
+			"image",
+			"Delete",
+			"currentLocale",
+			"local",
+			">\n",
+			"global",
+			"submit",
+			"SEARC",
+			"theme",
+			"da",
+			"data",
+			"trans*x",
+			"data",
+			"class",
+			"echo",
+			"            <?",
+			" }",
+			"user",
+			"login",
+			"TABLE",
+			"table",
+			"\n            ",
+			"refre	",
+			"magazyn",
+			"function",
+			"Carousel",
+			"\n    ",
+			"typeof",
+			"Designed",
+			"/*!",
+			"check",
+			"      ",
+			".wrapper",
+			"<!",
+			"index.php",
+			"automatic"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"project": "ewidencja_nauki_jazdy.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sidebar",
+				"client\\stylesheets\\base\\lib\\admin-lte\\sidebar.import.less"
+			],
+			[
+				"supersfi.scss",
+				"sass\\modules\\blocktopmenu\\css\\superfish-modified.scss"
+			],
+			[
+				"cms.tpl",
+				"cms.tpl"
+			],
+			[
+				"dir",
+				"system\\helpers\\directory_helper.php"
+			],
+			[
+				"add_car_view",
+				"application\\views\\add_car_view.php"
+			],
+			[
+				"add_car",
+				"application\\controllers\\add_car.php"
+			],
+			[
+				"car",
+				"assets\\docs\\carousel.html"
+			],
+			[
+				"main_view",
+				"application\\views\\main_view.php"
+			],
+			[
+				"samochod_model",
+				"application\\models\\samochod_model.php"
+			],
+			[
+				"samochod",
+				"application\\models\\samochod_model.php"
+			],
+			[
+				"mainview",
+				"application\\views\\main_view.php"
+			],
+			[
+				"add_carview",
+				"application\\views\\add_car_view.php"
+			],
+			[
+				"mainvie",
+				"application\\views\\main_view.php"
+			],
+			[
+				"details",
+				"application\\views\\details_view.php"
+			],
+			[
+				"compare",
+				"application\\views\\compare_view.php"
+			],
+			[
+				"main_vie",
+				"application\\views\\main_view.php"
+			],
+			[
+				"login",
+				"application\\controllers\\login.php"
+			],
+			[
+				"login.php",
+				"application\\controllers\\login.php"
+			],
+			[
+				"register",
+				"application\\views\\register_view.php"
+			],
+			[
+				"main",
+				"application\\views\\main_view.php"
+			],
+			[
+				"detail_vie",
+				"application\\views\\details_view.php"
+			],
+			[
+				"compare_view",
+				"application\\views\\compare_view.php"
+			],
+			[
+				"compare_mod",
+				"application\\models\\compare_model.php"
+			],
+			[
+				"comp.p",
+				"application\\controllers\\compare.php"
+			],
+			[
+				"comp",
+				"application\\views\\compare_view.php"
+			],
+			[
+				"compvie",
+				"application\\views\\compare_view.php"
+			],
+			[
+				"samochod_mod",
+				"application\\models\\samochod_model.php"
+			],
+			[
+				"compare.ph",
+				"application\\controllers\\compare.php"
+			],
+			[
+				"detaiview",
+				"application\\views\\details_view.php"
+			],
+			[
+				"details_vie",
+				"application\\views\\details_view.php"
+			],
+			[
+				"model_model",
+				"application\\models\\model_model.php"
+			],
+			[
+				"addcvie",
+				"application\\views\\add_car_view.php"
+			],
+			[
+				"add_car_v",
+				"application\\views\\add_car_view.php"
+			],
+			[
+				"main_ivew",
+				"application\\views\\main_view.php"
+			],
+			[
+				"addview",
+				"application\\views\\add_car_view.php"
+			],
+			[
+				"add_car_vi",
+				"application\\views\\add_car_view.php"
+			],
+			[
+				"login_view",
+				"application\\views\\login_view.php"
+			],
+			[
+				"verify",
+				"application\\controllers\\verifylogin.php"
+			],
+			[
+				"user",
+				"application\\models\\user.php"
+			],
+			[
+				"user.p",
+				"application\\models\\user.php"
+			],
+			[
+				"config.ph",
+				"application\\config\\config.php"
+			],
+			[
+				"autlo",
+				"application\\config\\autoload.php"
+			],
+			[
+				"compareview",
+				"application\\views\\compare_view.php"
+			],
+			[
+				"compmod",
+				"application\\models\\compare_model.php"
+			],
+			[
+				"controllerad",
+				"application\\controllers\\add_car.php"
+			],
+			[
+				"controler",
+				"application\\controllers\\main.php"
+			],
+			[
+				"addcar",
+				"application\\views\\add_car_view.php"
+			],
+			[
+				"addcarview",
+				"application\\views\\add_car_view.php"
+			],
+			[
+				"add",
+				"application\\controllers\\add_car.php"
+			],
+			[
+				"comparemod",
+				"application\\models\\compare_model.php"
+			],
+			[
+				"modelsamo",
+				"application\\models\\samochod_model.php"
+			],
+			[
+				"autoload",
+				"application\\config\\autoload.php"
+			],
+			[
+				"sammod",
+				"application\\models\\samochod_model.php"
+			],
+			[
+				"viewdet",
+				"application\\views\\details_view.php"
+			],
+			[
+				"samochodmod",
+				"application\\models\\samochod_model.php"
+			],
+			[
+				"post",
+				"client\\post\\post.html"
+			],
+			[
+				"home.html",
+				"client\\home\\home.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"welcome",
+				"application\\views\\welcome_message.php"
+			],
+			[
+				"/views/",
+				"application\\views\\welcome_message.php"
+			],
+			[
+				"control",
+				"system\\core\\Controller.php"
+			],
+			[
+				"/control",
+				"application\\controllers\\welcome.php"
+			],
+			[
+				".js",
+				"assets\\test.js"
+			],
+			[
+				"assets",
+				"assets\\jquery.js"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"transak",
+				"application\\controllers\\transakcje.php"
+			],
+			[
+				"viewmagazyn",
+				"application\\views\\magazyn_view.php"
+			],
+			[
+				".css",
+				"assets\\css\\dashboard.css"
+			],
+			[
+				"transakcje",
+				"application\\controllers\\transakcje.php"
+			],
+			[
+				"transakcjeview",
+				"application\\views\\transakcje_view.php"
+			],
+			[
+				"controllers/transakcje",
+				"application\\controllers\\transakcje.php"
+			],
+			[
+				"views/transakcje_view",
+				"application\\views\\transakcje_view.php"
+			],
+			[
+				"index.php",
+				"index.php"
+			],
+			[
+				"bootstrap.css",
+				"assets\\bootstrap-3.1.1\\css\\bootstrap.css"
+			],
+			[
+				"views/maga",
+				"application\\views\\magazyn_view.php"
+			],
+			[
+				"views/magazyn",
+				"application\\views\\magazyn_view.php"
+			],
+			[
+				"controllers/magazyn",
+				"application\\controllers\\magazyn.php"
+			],
+			[
+				"bootstrap.js",
+				"js\\bootstrap.js"
+			],
+			[
+				"angielski/",
+				"Angielski\\Siuda Janusz - gramatyka angielska do testów i egzaminów.doc"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"phpexcel",
+				"PHPExcel.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\xampp\\htdocs\\test\\test.sublime-workspace"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
